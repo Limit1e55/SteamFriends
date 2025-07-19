@@ -16,7 +16,7 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/266652f469d9321a3a2ca82be65668929b10aa6c.jpg) | 宵崎奏                      | [76561198051266941](https://steamcommunity.com/profiles/76561198051266941/) | ✅           | 2020-04-25 09:29:32 |          |
+| ![](https://avatars.steamstatic.com/422c4938f5c14358c84895f3da52868196355237.jpg) | あかのヒーロー                  | [76561198051266941](https://steamcommunity.com/profiles/76561198051266941/) | ✅           | 2020-04-25 09:29:32 |          |
 | ![](https://avatars.steamstatic.com/8d5aecf456aa5cefd6afd58d42985e64363ca954.jpg) | Amigo丶                   | [76561198340197273](https://steamcommunity.com/profiles/76561198340197273/) | ✅           | 2020-04-14 11:14:51 |          |
 | ![](https://avatars.steamstatic.com/4ce262e6b286e58b7b641d4bdf551551d659ecbb.jpg) | Faith                    | [76561198202820219](https://steamcommunity.com/profiles/76561198202820219/) | ✅           | 2020-10-31 07:18:49 |          |
 | ![](https://avatars.steamstatic.com/ce14ccb866bea1882188e728ea87611c493e71c0.jpg) | laotie666                | [76561198054262973](https://steamcommunity.com/profiles/76561198054262973/) | ✅           | 2020-07-17 11:52:40 |          |
