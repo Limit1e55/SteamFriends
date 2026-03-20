@@ -16,7 +16,7 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/ce784d334c2eedafefc9c22909ba059688c13a38.jpg) | 宵崎 奏                     | [76561198051266941](https://steamcommunity.com/profiles/76561198051266941/) | ✅           | 2020-04-25 09:29:32 |          |
+| ![](https://avatars.steamstatic.com/788375d513ce26a8a62555d1796adc0b55fb05fa.jpg) | 宵崎 奏                     | [76561198051266941](https://steamcommunity.com/profiles/76561198051266941/) | ✅           | 2020-04-25 09:29:32 |          |
 | ![](https://avatars.steamstatic.com/8d5aecf456aa5cefd6afd58d42985e64363ca954.jpg) | Amigo丶                   | [76561198340197273](https://steamcommunity.com/profiles/76561198340197273/) | ✅           | 2020-04-14 11:14:51 |          |
 | ![](https://avatars.steamstatic.com/4ce262e6b286e58b7b641d4bdf551551d659ecbb.jpg) | Faith                    | [76561198202820219](https://steamcommunity.com/profiles/76561198202820219/) | ✅           | 2020-10-31 07:18:49 |          |
 | ![](https://avatars.steamstatic.com/144fbd0611918acf700fa7772ae7ecd74bf276ee.jpg) | 甜风过境遇你吖                  | [76561198054262973](https://steamcommunity.com/profiles/76561198054262973/) | ✅           | 2020-07-17 11:52:40 |          |
