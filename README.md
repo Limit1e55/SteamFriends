@@ -16,7 +16,7 @@
 
 | Avatar                                                                            | Name                     | steamid                                                                     | is_friend   | BFD                 | Remark   |
 |:----------------------------------------------------------------------------------|:-------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|
-| ![](https://avatars.steamstatic.com/4d813dcd33469057caf4cb44ee57deb4cf4bc0bf.jpg) | 宵崎 奏                     | [76561198051266941](https://steamcommunity.com/profiles/76561198051266941/) | ✅           | 2020-04-25 09:29:32 |          |
+| ![](https://avatars.steamstatic.com/65bf90c9397784f2f8b0157f6c941aec61b751b5.jpg) | 宵崎 奏                     | [76561198051266941](https://steamcommunity.com/profiles/76561198051266941/) | ✅           | 2020-04-25 09:29:32 |          |
 | ![](https://avatars.steamstatic.com/8d5aecf456aa5cefd6afd58d42985e64363ca954.jpg) | Amigo丶                   | [76561198340197273](https://steamcommunity.com/profiles/76561198340197273/) | ✅           | 2020-04-14 11:14:51 |          |
 | ![](https://avatars.steamstatic.com/4ce262e6b286e58b7b641d4bdf551551d659ecbb.jpg) | Faith                    | [76561198202820219](https://steamcommunity.com/profiles/76561198202820219/) | ✅           | 2020-10-31 07:18:49 |          |
 | ![](https://avatars.steamstatic.com/18e60e28e7b44f0467376d21520364eb1238ab31.jpg) | 大果tv                     | [76561198054262973](https://steamcommunity.com/profiles/76561198054262973/) | ✅           | 2020-07-17 11:52:40 |          |
